@@ -28,7 +28,7 @@ page_sections:
       url: https://play.google.com/store/apps/details?id=com.amapama.beatcoasterv3
       button_text: "Get it now!"
     image:
-      image: <img src="pocketsizedgames.net/beatcoaster.png">
+      image: <img src="{{site.baseurl}}/beatcoaster.png">
       alt_text: Beat coaster
     background_image: "background.png"
 

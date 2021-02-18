@@ -43,6 +43,7 @@ page_sections:
       image: "/uploads/2018/06/21/product.png"
 
   - template: 3-column-text
+    slug: services
     block: three-column-1
     col_1: 
       headline: Game development outsourcing
@@ -56,6 +57,7 @@ page_sections:
 
 
   - template: 1-column-text
+    slug: team
     block: one-column-1
     headline: Our team
     content: Has worked in the mobile game industry for about 6-7 years now, having worked on dozens of games, ranging from hypercasual up to hardcore games.
@@ -68,5 +70,5 @@ page_sections:
     image: "icon.png"
     col_2: <a href="mailto:martin.vuminhduc@gmail.com">Contact</a>
     col_3: <a href="privacy_policy.html">Privacy Policy</a>
-    col_4: "temp"
+    col_4: ""
 ---

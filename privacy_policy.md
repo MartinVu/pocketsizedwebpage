@@ -8,26 +8,16 @@ page_sections:
         headline: Privacy Policy
         content: "This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.<br>
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.<br>
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at applications unless otherwise defined in this Privacy Policy.
-Information Collection and Use<br>
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at applications unless otherwise defined in this Privacy Policy.<br>
+<strong>Information Collection and Use</strong><br>
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.<br>
 The app does use third party services that may collect information used to identify you.
-Link to privacy policy of third party service providers used by the app<br>
-Google Play Services<br>
-AdMob<br>
-Google Analytics for Firebase<br>
-Firebase Crashlytics<br>
-Facebook<br>
-Unity<br>
-AppLovin<br>
-Vungle<br>
-AdColony<br>
-Log Data<br>
+Link to privacy policy of third party service providers used by the app: Google Play Services, AdMob, Google Analytics for Firebase, Firebase, Crashlytics, Facebook, Unity, AppLovin, Vungle, AdColony and Log Data.<br>
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.<br>
-Cookies<br>
+<strong>Cookies</strong><br>
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.<br>
 This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.<br>
-Service Providers<br>
+<strong>Service Providers</strong><br>
 I may employ third-party companies and individuals due to the following reasons:
 To facilitate our Service;
 To provide the Service on our behalf;

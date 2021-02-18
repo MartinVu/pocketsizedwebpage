@@ -2,9 +2,8 @@ title: PocketSizedGames
 author: PocketSizedGames
 email: martin.vuminhduc@gmail.com
 description: >-
-  ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks feature.
-  This theme provides a set of page-level components and a pre-configured Forestry Blocks UI
-  that will empower content editors to construct their own webpages.
+  We create games that you can bring pretty much play anywhere, anytime on your favorite smart phone and smart watch.
+
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "pocketsizedgames.net" # your site's origin, e.g. https://forestry.io
 

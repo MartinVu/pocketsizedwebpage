@@ -68,7 +68,7 @@ page_sections:
   - template: 4-column-footer
     block: footer-2
     image: "icon.png"
-    col_2: <a href="mailto:martin.vuminhduc@gmail.com">Contact</a>
+    col_2: <a href="mailto:martinvu@pocketsizedgames.net">Contact</a>
     col_3: <a href="privacy_policy.html">Privacy Policy</a>
     col_4: ""
 ---

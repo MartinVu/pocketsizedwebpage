@@ -40,8 +40,7 @@ page_sections:
     content:
       We create games that you can bring pretty much play anywhere, anytime on your favorite smart phone and smart watch.
     media:
-      image: "/product.png"
-      alt_text: uBuild Blocks Mock-Up
+      image: "product.png"
 
   - template: 3-column-text
     block: three-column-1

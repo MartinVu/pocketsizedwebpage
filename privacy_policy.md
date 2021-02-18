@@ -28,7 +28,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.<br>
 <strong>Changes to This Privacy Policy</strong><br>
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.<br>
-This policy is effective as of 2020-08-01<br>
+This policy is effective as of 2021-01-01<br>
 <strong>Contact Us</strong><br>
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at contact@pocketsizedgames.net"
 ---

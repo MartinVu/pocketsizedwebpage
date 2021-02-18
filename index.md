@@ -28,8 +28,8 @@ page_sections:
       url: https://play.google.com/store/apps/details?id=com.amapama.beatcoasterv3
       button_text: "Get it now!"
     image:
-      image:  "beatcoaster.png"
-    background_image: "background.png"
+      image:  "/uploads/2018/06/21/beatcoaster.png"
+    background_image: "/uploads/2018/06/21/background.png"
 
   - template: content-feature
     block: feature-1

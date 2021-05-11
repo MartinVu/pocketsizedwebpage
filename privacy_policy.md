@@ -7,7 +7,7 @@ page_sections:
         block: one-column-1
         headline: Privacy Policy
         content: "
-<h1>Main points:</h1><br>
+<strong>Main points:</strong><br>
 According to this privacy policy («Privacy Policy»), PocketSized Game  («PocketSized Game»)  also referred to as us/we/our in this Privacy Policy are providers and developers of products such as mobile game application and other services, at which this Privacy Policy is published («Services») under the brand name PocketSized Game;
 <br>
 Data we might process includes profile and contact details, data related to your use of services including game stats, posts, log in, traffic data, data relating to the device you use to access the services;
@@ -41,7 +41,7 @@ Data you give us directly:
 - information you provide by participating in any PocketSized Game, forums or social media publics;<br>
 - information you provide us if you report about a problem with any of Services;<br>
 <br>
-<h2>1.1 Data we may collect when you use our Services (whether or not you register with us):</h2>
+<strong>1.1 Data we may collect when you use our Services (whether or not you register with us): </strong>
 <br>
 - data about your location, device type, operating system and platform;<br>
 - data about your device, operating system version, page loading time, network, generated device identifier information, hashed MAC address, referral source and IP address.<br>
@@ -52,12 +52,12 @@ where you are accessing Services through a third-party account such as Facebook 
 You can manage the information which is shared by such third parties by amending your preferences through the privacy settings such third parties provide.
 <br>
 <br>
-<h2>1.2 How PocketSized Game protects your data?</h2><br>
+<strong>1.2 How PocketSized Game protects your data?</strong><br>
 PocketSized Game follows generally accepted industry standards and maintains reasonable safeguards to attempt to ensure the security, integrity and privacy of the information in PocketSized Game’s possession.
 <br>
 Please note that data transmitted via the internet (e.g. via email communication) may be subject to security breaches. Complete protection of your data from third-party access is not possible.
 <br>
-<h1>2. What does PocketSized Game do with this data?</h1><br>
+<strong>2. What does PocketSized Game do with this data?</strong><br>
 We may use your data in the following ways:<br>
 - to provide you with the Services (including any newsletter or blog that you subscribe to with us (which you can opt out of at any time));<br>
 - to customize the Services which are available to you,<br>
@@ -72,7 +72,7 @@ We may use your data in the following ways:<br>
 - to offer you other Services which we think may be of interest to you, by email or push notifications.<br>
 You can be a subject to a decision based solely on automated processing, including profiling. It means that you can receive some information or offers which are based only on automated processing of your personal information (for example, personalized advertisements). You have the right to refuse to be a subject to a decision based solely on automated processing, including profiling. In this regard if You refuse to be a subject to a decision based solely on automated processing, including profiling, please, either don't agree with this Privacy Policy or if you wish to cancel your consent please enter the Settings inside of the mobile application developed by PocketSized Game and choose appropriate option.<br>
 <br>
-<h1>3. What rights concerning your data processing do you have?</h1><br>
+<strong>3. What rights concerning your data processing do you have?</strong><br>
 You as the data subject have the following rights relating to the processing of Your personal data:<br>
 <br>
 (1) Right of access (right to obtain from PocketSized Game confirmation as to whether Your personal data are being processed and other information concerning Your personal data, including information about the purposes of processing, the categories of processed personal data, the categories of recipients of Your personal data, the period of personal data storage, the existence of automated decision-making, including profiling, in respect of Your personal data);
@@ -97,15 +97,15 @@ You as the data subject have the following rights relating to the processing of 
 <br>
 You may use Your rights by reading this Privacy Policy or sending requests relating to the rights provided in paras. (3)-(10) to Our e-mail specified in Chapter 13 “How can I contact PocketSized Game if I have query or complaint about data protection?” of this Privacy Policy.
 <br>
-<h1>4. Does PocketSized Game send marketing communications and how can I opt out?</h1><br>
+<strong>4. Does PocketSized Game send marketing communications and how can I opt out?</strong><br>
 Yes, we may send you marketing communications in relation to other Services that we think may be of interest to you via email or push notification. This would only ever be in relation to other similar Services of PocketSized Game however. We do not provide your data to third parties so that they can send you marketing materials without your consent.
 <br>
 You can opt-out by using the unsubscribe mechanism in any email, contact us as set out below or, in relation to push notifications, by choosing not to accept them or by turning them off by visiting the settings on your device and selecting the appropriate setting.
 <br>
-<h1>5. How long does PocketSized Game keep hold of data?</h1><br>
+<strong>5. How long does PocketSized Game keep hold of data?</strong><br>
 We will keep data only for as long as it is relevant and useful for the purpose for which it was originally collected while you employ our Services (for example, play our games) and otherwise where required by law, including without limitations whilst you continue to have access to the Services. If you decide to delete an account you have with us and give up using our Services, we will delete your personal data as soon as technically possible. Nevertheless, certain data does stay on our PocketSized Game system for administrative purposes (for archiving purposes, scientific or historical research purposes or statistical purposes and to defend or bring any legal action). We also will process those personal data which is needed to comply with the requirements of applicable laws (e.g. tax and accounting requirements) or for our detection, investigation and prevention of cheating at the Services. Please email us at zodiarkgame@gmail.com for information regarding retention periods.
 <br>
-<h1>6. Ad Serving Technology</h1><br>
+<strong>6. Ad Serving Technology</strong><br>
 PocketSized Game reserves the right to use and disclose the collected, non-personal data for purposes of advertising by PocketSized Game or PocketSized Game’s partners and contractors. 
 <br>
 PocketSized Game may employ third party ad serving technologies that use certain methods to collect information as a result of ad serving through Services. 
@@ -120,14 +120,14 @@ The foregoing data may be used and disclosed in accordance with this Privacy Pol
 <br>
 PocketSized Game strongly recommends that you review the privacy policies and cookie usage of our third parties partners.
 <br>
-<h1>7. Location Data</h1><br>
+<strong>7. Location Data</strong><br>
 To the extent PocketSized Game makes location enabled Services available and you use such Services, PocketSized Game may collect and process your location data to provide location related Services and advertisements. For example, some add-ons or offers may be available at dedicated locations. The location data is processed and stored only for the duration that is required for the provision of the location related Services.
 <br>
 PocketSized Game may use, depending on the service (1) IP-based location based on the IP address presented by the end-user, (2) fine geo-location data based on coordinates obtained from a mobile device’s GPS radio, or (3) coarse, network-based geo-location data based on proximity of network towers or the location of WiFi networks. 
 <br>
 Your fine, GPS-based geo-location is not accessed without your consent. Notwithstanding PocketSized Game’ partners who are providing location related parts of the Service, PocketSized Game will not share your GPS geo-location with third parties without your consent. To the extent PocketSized Game makes available GPS geo-location to third parties in accordance with this Privacy Policy, it will be provided anonymously.
 <br>
-<h1>8. What third party services does PocketSized Game use?</h1><br>
+<strong>8. What third party services does PocketSized Game use?</strong><br>
 In addition, we may use third party services that collect, monitor and analyse data. Here is the list of third party services we might use.
 <br>
 Our third party partners, and their privacy policies are as follows:
@@ -150,12 +150,12 @@ PocketSized Game strongly recommends that you review the privacy policies and co
 <br>
 
 
-<h1>9. Will data be transferred overseas?</h1><br>
+<strong>9. Will data be transferred overseas?</strong><br>
 The data that we collect from you may be transferred to, and stored at, a destination outside of the UK or the European Economic Area (EEA), such as the US (where some our third-party cloud-based servers are based). It may also be processed by PocketSized Game companies or by one of our third-party partners operating outside of the UK or EEA. This transfer is required to host the Services, provide you with support services, perform backups of your data, allow you to use the Services and the Website and to process your payment details if you make any in game purchases. We will always ensure that any such transfers are conducted in accordance with relevant laws in order to ensure adequate protection.
 <br>
 The transfer to the countries which are not a subject of adequacy decision is based on your consent (article 45, 49.1 (a) of GDPR). We will request your consent to data transfer to such countries before we begin our data processing activities. We take all the appropriate measures in order to ensure confidentiality and security of your personal data.
 <br>
-<h1>10. Special Note about Children’s Privacy</h1><br>
+<strong>10. Special Note about Children’s Privacy</strong><br>
 PocketSized Game does not knowingly collect personal information from children under 16 years of age. If PocketSized Game learns that PocketSized Game has inadvertently gathered personal data from children under 16 years of age, PocketSized Game will take reasonable measures to promptly delete such personal data from PocketSized Game’ records.   
 <br>
 PocketSized Game understands the need to provide extra privacy protections to users who are children. To that end, features and services such as social networking plug-ins, behaviorally targeted advertising, and collection of data for the purpose of building user profiles are not available to users under 16. PocketSized Game also does not allow our third party partners who engage in such practices to access personally identifiable data from users under 16.  
@@ -168,7 +168,7 @@ Please note that PocketSized Game’s partners may have their own policies relat
 <br>
 We recommend that parents take the time to communicate and educate their children about Internet Safety.
 <br>
-<h1>11. How do I erase or restrict or update my data?</h1><br>
+<strong>11. How do I erase or restrict or update my data?</strong><br>
 If you no longer wish for us to use your data, please email us at zodiarkgame@gmail.com. Please note that this may affect the provision of our Services to you, for example, you may not be able to enter any competitions or make any in game purchases.
 <br>
 If you would like to delete, amend or update your data or change the way we may use it, then please email us at martin.vuminhduc@gmail.com.
@@ -179,10 +179,10 @@ If you wish to opt out of receiving any promotional emails or newsletters you ca
 <br>
 If you have an account with us, you can view and edit your profile to change the settings in order to prevent others being able to add you as a friend.
 <br>
-<h1>12. Your Consent</h1><br>
+<strong>12. Your Consent</strong><br>
 Your personal data is processed under the consent given by You (article 6.1 (a) of GDPR). We ask You for providing Us with the consent before processing Your personal data.
 <br>
-<h1>13. How can I contact PocketSized Game if I have query or complaint about data protection?</h1><br>
+<strong>13. How can I contact PocketSized Game if I have query or complaint about data protection?</strong><br>
 If you have any questions about this Privacy Policy or wish to request a copy of the data which we hold about you, please contact at martin.vuminhduc@gmail.com.
 <br>
 "

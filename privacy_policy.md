@@ -30,7 +30,7 @@ Please note, that the Services may contain links to websites or other services o
 <br>
 <strong>1. What data does PocketSized Game collect from you?</strong>
 <br>
-In this Privacy Policy "data" means any personal data about you which could identify you (by itself or in combination with other data) such as your name, address or email address.
+In this Privacy Policy data means any personal data about you which could identify you (by itself or in combination with other data) such as your name, address or email address.
 <br>
 We may collect the following data about you:
 <br>
@@ -151,7 +151,7 @@ PocketSized Game strongly recommends that you review the privacy policies and co
 
 
 <h1>9. Will data be transferred overseas?</h1><br>
-The data that we collect from you may be transferred to, and stored at, a destination outside of the UK or the European Economic Area ("EEA"), such as the US (where some our third-party cloud-based servers are based). It may also be processed by PocketSized Game companies or by one of our third-party partners operating outside of the UK or EEA. This transfer is required to host the Services, provide you with support services, perform backups of your data, allow you to use the Services and the Website and to process your payment details if you make any in game purchases. We will always ensure that any such transfers are conducted in accordance with relevant laws in order to ensure adequate protection.
+The data that we collect from you may be transferred to, and stored at, a destination outside of the UK or the European Economic Area (EEA), such as the US (where some our third-party cloud-based servers are based). It may also be processed by PocketSized Game companies or by one of our third-party partners operating outside of the UK or EEA. This transfer is required to host the Services, provide you with support services, perform backups of your data, allow you to use the Services and the Website and to process your payment details if you make any in game purchases. We will always ensure that any such transfers are conducted in accordance with relevant laws in order to ensure adequate protection.
 <br>
 The transfer to the countries which are not a subject of adequacy decision is based on your consent (article 45, 49.1 (a) of GDPR). We will request your consent to data transfer to such countries before we begin our data processing activities. We take all the appropriate measures in order to ensure confidentiality and security of your personal data.
 <br>
@@ -175,7 +175,7 @@ If you would like to delete, amend or update your data or change the way we may 
 <br>
 If you wish to cancel your consent please enter the Settings inside of the mobile application developed by PocketSized Game and choose appropriate option.
 <br>
-If you wish to opt out of receiving any promotional emails or newsletters you can do so by clicking on the "unsubscribe here" link at the bottom of each email. To change or delete push notifications, visit the settings section on your device and select the appropriate setting.
+If you wish to opt out of receiving any promotional emails or newsletters you can do so by clicking on the unsubscribe here link at the bottom of each email. To change or delete push notifications, visit the settings section on your device and select the appropriate setting.
 <br>
 If you have an account with us, you can view and edit your profile to change the settings in order to prevent others being able to add you as a friend.
 <br>
